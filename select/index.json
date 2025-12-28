@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "トレンチコートマフィア",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2025-12-28T18:27:46.585505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トレンチコートマフィア",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_トレンチコートマフィア_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "トレンチコートマフィア",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_トレンチコートマフィア_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トレンチコートマフィア",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_トレンチコートマフィア_CreepyNuts.txt"
+    }
+  ]
+}
